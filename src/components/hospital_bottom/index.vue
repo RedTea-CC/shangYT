@@ -16,8 +16,6 @@
 
 <style lang="scss" scoped>
 .bottom {
-  position: fixed;
-  z-index: 999;
   bottom: 0;
   width: 100%;
   height: 50px;

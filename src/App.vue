@@ -2,7 +2,8 @@
   <div class="container">
     <HospitalTop />
     <div class="content">
-      XXX
+      <!-- 展示路由组件的区域 -->
+      <router-view></router-view>
     </div>
     <HospitalBottom />
   </div>
